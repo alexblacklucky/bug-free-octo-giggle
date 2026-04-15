@@ -1,0 +1,20 @@
+{
+  "name": "bug-free-octo-giggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:54411/git/alexblacklucky/bug-free-octo-giggle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@21st-sdk/agent": "^0.0.16",
+    "zod": "^4.3.6"
+  }
+}
